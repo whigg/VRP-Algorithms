@@ -1,0 +1,20 @@
+NAME : F-n135-k7
+COMMENT : (Fisher: problem 12, Min no of trucks: 7, Best value: 1165)
+TYPE : CVRP
+DIMENSION : 135
+EDGE_WEIGHT_TYPE : EUC_2D
+CAPACITY : 2210
+
+NAME : F-n72-k4
+COMMENT : (Fisher: problem 11, Min no of trucks: 4, Best value: 238)
+TYPE : CVRP
+DIMENSION : 72
+EDGE_WEIGHT_TYPE : EUC_2D
+CAPACITY : 30000
+
+NAME : F-n45-k4
+COMMENT : (Fisher: problem 10, Min no of trucks: 4, Best value: 728)
+TYPE : CVRP
+DIMENSION : 45
+EDGE_WEIGHT_TYPE : EUC_2D
+CAPACITY : 2010

@@ -1,0 +1,41 @@
+NAME : E-n22-k4.vrp
+COMMENT : (Christophides and Eilon, Min no of trucks: 4, Optimal value: 375)
+TYPE : CVRP
+DIMENSION : 22
+EDGE_WEIGHT_TYPE : EUC_2D
+CAPACITY : 6000
+
+NAME : E-n23-k3.vrp
+COMMENT : (Christophides and Eilon, Min no of trucks: 3, Optimal value: 569)
+TYPE : CVRP
+DIMENSION : 23
+EDGE_WEIGHT_TYPE : EUC_2D
+CAPACITY : 4500
+
+NAME : E-n30-k3.vrp
+COMMENT : (Christophides and Eilon, Min no of trucks: 3, Optimal value: 534)
+TYPE : CVRP
+DIMENSION : 30
+EDGE_WEIGHT_TYPE : EUC_2D
+CAPACITY : 4500
+
+NAME : E-n33-k4.vrp
+COMMENT : (Christophides and Eilon, Min no of trucks: 4, Optimal value: 835)
+TYPE : CVRP
+DIMENSION : 33
+EDGE_WEIGHT_TYPE : EUC_2D
+CAPACITY : 8000
+
+NAME : E-n51-k5.vrp
+COMMENT : (Christophides and Eilon, Min no of trucks: 5, Optimal value: 521)
+TYPE : CVRP
+DIMENSION : 51
+EDGE_WEIGHT_TYPE : EUC_2D
+CAPACITY : 160
+
+NAME : E-n76-k7.vrp
+COMMENT : (Christophides and Eilon, Min no of trucks: 7, Best value: 683)
+TYPE : CVRP
+DIMENSION : 76
+EDGE_WEIGHT_TYPE : EUC_2D
+CAPACITY : 220
